@@ -1,0 +1,26 @@
+11 - Solid Model
+Assigned 	Monday, September 28, 2015
+Due 	Tuesday, October 06, 2015, 11:59 PM
+Upload 	yes
+Kind 	individual
+Project 	Learn - Hoppers
+
+Geometric model
+Now is the time to further develop the hopper design you studied in your dynamic simulation by creating a solid model of it! The dynamic simulation allowed you to investigate the core functionality and behavior of a simplified model of your hopper, and you need to redesign and advance it based on what you learned.
+
+You should have already formed a clear conceptualization of the basic configuration you want to prototype. Creating a detailed digital solid model of that conceptualization is the next step in the process. The solid model will provide you with a new set of affordances such as: visualizing and communicating the appearance of your design; analyzing its functionality and behavior from a variety of perspectives; checking for potential physical and functional interference between its components; and manufacturing a high-precision physical prototype.
+
+Create individual part models and an assembly model of your design using SolidWorks. Use the "Metric Part" template for your parts. Use the corresponding "Metric Assy" template for your assembly. Templates can be obtained from the Machine Shop Templates web page. Include a part model for all components of your design, including the latex hose, suction cup, spring wire, capacitor and motor, if you are using them. You do not need to include the electrical wire and heat shrink tubing if they are not used structurally. Part files for several of these components can be downloaded from the prototyping kit web page. We will help you with more complex spring shapes if your design has them.
+
+With your assembly, check for interference between parts and features and resolve any that you find. Make sure to move the model through its full motion to check for any interference that might arise during operation. You will need to suppress rigid models of wire or latex springs in order to check motion. It is helpful to use the hidden line view or section views to check that holes do not intersect internally.
+
+Make your parts to scale, using approximately the right dimensions, including dimensions taken from the materials. You will have additional opportunities to set the final dimensions later.
+
+Remember that cut parts cannot be more than 152 mm (6 in) in length (oversized parts will not be cut). Remember to eliminate all sharp points and edges. For example, you should fillet most vertical edges (parallel to the laser beam cutting axis) in your part models. Don't forget to eliminate any exposed wire ends from your design, such as by bending them into loops or capping them.
+
+Color your parts to make your assembly model more readable. One option is to approximate the colors of the actual materials. Note that completely white and complete black parts are not that readable depending upon lighting. A conflicting set of primary colors is also not very readable.
+
+Submission
+Create an image file of your final assembly by doing a "Save as..." with the assembly open and choosing "JPEG" as the "Save as type". The larger you make the window size the better this file will come out (it's just a screen capture). This image should be an isometric view of your final assembly. Create a Zip file containing your part files and your assembly file. Finally, upload the image file first and then the zip file.
+
+When creating the JPEG image of your assembly, treat it as if you are composing and taking a photo. Consider the photo guide when doing this. Clean up the view of your model by hiding axes, coordinate systems and planes.
